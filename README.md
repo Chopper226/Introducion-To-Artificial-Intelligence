@@ -1,1 +1,2 @@
-# Introducion-To-Artificial-Intelligence
+# 人工智慧導論
+此為 111 學年度 **人工智慧導論 I & II** 課程學習之紀錄
