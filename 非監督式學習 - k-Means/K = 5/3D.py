@@ -14,4 +14,5 @@ ax = fig.add_subplot( 121 , projection = '3d' )
 plt.title( 'KMeans =  5 groups' )
 ax.scatter( dx.T[0] , dx.T[1] , dx.T[2] , c = new_dy, cmap = plt.cm.Set1 )
 
+plt.tight_layout()
 plt.show()
