@@ -11,7 +11,6 @@ class_0 = np.where( model.labels_ == 0 )[0]
 class_1 = np.where( model.labels_ == 1 )[0]
 class_2 = np.where( model.labels_ == 2 )[0]
 
-
 print( class_0[0:10] )
 print( class_1[0:10] )
 print( class_2[0:10] )
